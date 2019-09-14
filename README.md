@@ -9,6 +9,8 @@ All data is scraped from the following locations:
 * [Space Facts](http://space-facts.com/mars/)
 * [USGS](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars)
 
-## Output
+## Example Output
 
 Scraped data is gathered, stored in a local DB, and presented via a Python Flask application.
+
+![Screenshot](/example-page.png)
